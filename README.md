@@ -1,4 +1,4 @@
-# Balázs Rostás
+# Balázs "MrBlaise" Rostás
 
 # IVT Spaceship
 
